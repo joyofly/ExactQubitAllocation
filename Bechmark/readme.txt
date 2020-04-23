@@ -1,1 +1,1 @@
-All benchmarks considered is given here.
+All benchmarks considered are given here.
